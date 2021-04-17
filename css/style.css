@@ -1,0 +1,65 @@
+body{
+	background-color: #75bcbe;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.title-h2{
+	margin: 10px 0;
+	padding-bottom: 3px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	color: #ffffff;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+}
+
+.auto-img{
+	padding: 0 5px;
+}
+.auto-img1{
+	width: 100%;
+}
+
+/*center mode*/
+.box{
+	margin: 0 10px;
+	min-height: 200px;
+	background-color: white;
+	font-size: 30px;
+	font-weight: 700;
+	color: black;
+	text-align: center;	
+}
+
+.slick-dots {
+    bottom: -40px;
+}
+.slick-dots li button:before {
+    font-size: 10px;
+    color: white;
+}
+.slick-dots li.slick-active button:before {
+    color: white;
+}
+
+.owl-dots{
+	color: white;
+    text-align: center;
+}
+
+.element-item { 
+	width: 33%; 
+}
+.iso-image{
+	padding-bottom: 30px;
+	padding-right: 30px;
+}
+
